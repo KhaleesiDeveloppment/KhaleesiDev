@@ -9,10 +9,10 @@
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=github,vscode,idea&theme=dark)](https://github.com/XaterreDev)
+  [![tools](https://skillicons.dev/icons?i=github,vscode,idea&theme=dark)](https://github.com/KhaleesiDeveloppement)
   
 ## 📦 Databases:
- [![databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/XaterreDev)
+ [![databases](https://skillicons.dev/icons?i=mysql&theme=dark)](https://github.com/KhaleesiDeveloppement)
 
 ## 🔧 OS :
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
